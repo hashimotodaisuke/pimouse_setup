@@ -1,5 +1,4 @@
 #!/bin/bash -xve
-
 #Written by Hashimoto     
 exec 2> /tmp/setup.log
      
